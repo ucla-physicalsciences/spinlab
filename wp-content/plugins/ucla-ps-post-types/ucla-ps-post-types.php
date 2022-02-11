@@ -207,7 +207,7 @@ if (! function_exists('create_custom_post_types')) {
 );
         register_post_type('publication', $args);
     }
-    add_action('init', 'custom_post_type_publication', 0);
+    //add_action('init', 'custom_post_type_publication', 0);
 
     // Register Custom Post Type for Events
     function custom_post_type_event()
