@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/ucla-ps-wp"]
+	path = wp-content/themes/ucla-ps-wp
+	url = git@github.com:ucla-ps-it/ucla-ps-wp.git
